@@ -1,11 +1,5 @@
 # JK UVM 프로젝트 로드맵
 
-현재 진행 중: **WEEK6 (11/17‒11/21)**  
-JK UVM 프로젝트는 UVM(Universal Verification Methodology)을 기반으로 UBUS 프로토콜을 검증하기 위한 VIP(Verification IP) 구축 및 테스트벤치 개발 프로젝트입니다.
-매주 월요일 진행 상황 공유, 목요일 이슈 해결 및 보고를 진행하고 있습니다.
-
----
-
 ## 프로젝트 개요 (Overview)
 
 검증 대상 (DUT): UBUS Protocol (Master/Slave Architecture)
