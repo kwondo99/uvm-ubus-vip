@@ -18,9 +18,6 @@ Coverage Driven Verification (목표 100%)
 
 참고: .gitignore 설정에 의해 시뮬레이션 생성물(*.log, *.fsdb, csrc/ 등)은 업로드되지 않습니다.
 
-## 저희 폴더 처음에 사용하실 때
-- git clone 하시면 처음에 밑 git tree와 같이 폴더 생성됩니다.
-
 ---
 
 ## 현재 git tree
